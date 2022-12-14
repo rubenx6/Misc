@@ -1,0 +1,22 @@
+2,2,2,6
+273,122,0,0
+272,250,0,0
+
+615,269,0
+617,137,0
+
+0,453,269
+2,453,137
+
+0,(0, '1'),True,True
+midright
+0,(1, '1'),True,True
+midright
+1,(0, '2'),True,True
+midright
+1,(1, '2'),True,True
+midright
+0,0,False,False
+midleft
+1,1,False,False
+midleft

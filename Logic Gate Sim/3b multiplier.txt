@@ -1,0 +1,189 @@
+6,6,35,69
+200,193,0,0
+200,115,0,0
+200,40,0,0
+200,509,0,0
+200,432,0,0
+200,356,0,0
+
+1540,572,0
+1540,466,0
+1540,346,0
+1540,221,0
+1540,134,0
+1540,47,0
+
+2,390,62
+0,515,131
+0,391,203
+0,528,267
+0,399,340
+0,536,415
+2,401,479
+0,536,559
+0,408,627
+0,534,702
+0,405,770
+0,735,58
+0,750,179
+2,754,336
+0,768,467
+0,779,617
+2,771,761
+2,941,94
+0,949,217
+0,943,373
+2,957,602
+2,970,761
+0,1113,139
+2,1130,299
+0,1170,580
+2,1163,734
+0,1278,384
+2,1293,514
+0,1414,284
+3,633,205
+3,654,650
+3,844,252
+3,1072,641
+3,1175,416
+3,1285,274
+
+29,(12, '2'),None,False
+None
+30,(15, '2'),None,False
+None
+31,(18, '2'),None,False
+None
+32,(24, '2'),None,False
+None
+33,(26, '2'),None,False
+None
+34,(28, '2'),None,False
+None
+28,1,False,False
+midleft
+22,0,False,False
+midleft
+26,(28, '1'),None,False
+None
+27,2,False,False
+midleft
+25,3,False,False
+midleft
+16,4,False,False
+midleft
+8,5,False,False
+midleft
+4,(0, '1'),True,False
+midright
+1,(0, '2'),True,False
+midright
+4,(1, '1'),True,False
+midright
+1,(1, '2'),True,False
+midright
+5,(2, '1'),True,False
+midright
+2,(2, '2'),True,False
+midright
+0,(3, '1'),True,False
+midright
+3,(3, '2'),True,False
+midright
+3,(4, '1'),True,False
+midright
+2,(4, '2'),True,False
+midright
+5,(5, '1'),True,False
+midright
+0,(5, '2'),True,False
+midright
+4,(6, '1'),True,False
+midright
+3,(6, '2'),True,False
+midright
+4,(7, '1'),True,False
+midright
+0,(7, '2'),True,False
+midright
+5,(8, '1'),True,False
+midright
+2,(8, '2'),True,False
+midright
+5,(9, '1'),True,False
+midright
+1,(9, '2'),True,False
+midright
+2,(10, '1'),True,False
+midright
+4,(10, '2'),True,False
+midright
+0,(11, '1'),None,False
+None
+2,(11, '2'),None,False
+None
+1,(12, '1'),None,False
+None
+5,(29, '1'),True,False
+midright
+4,(13, '1'),None,False
+None
+5,(13, '2'),None,False
+None
+1,(14, '1'),True,False
+midright
+6,(14, '2'),None,False
+None
+1,(15, '1'),None,False
+None
+8,(30, '1'),None,False
+None
+9,(16, '1'),None,False
+None
+10,(16, '2'),None,False
+None
+11,(17, '1'),None,False
+None
+1,(17, '2'),None,False
+None
+12,(18, '1'),None,False
+None
+2,(31, '1'),True,False
+midright
+1,(19, '1'),None,False
+None
+13,(19, '2'),None,False
+None
+14,(20, '1'),None,False
+None
+7,(20, '2'),None,False
+None
+4,(21, '1'),None,False
+None
+15,(21, '2'),None,False
+None
+17,(22, '1'),None,False
+None
+3,(22, '2'),None,False
+None
+3,(23, '1'),None,False
+None
+19,(23, '2'),None,False
+None
+21,(24, '1'),None,False
+None
+13,(32, '1'),None,False
+None
+21,(25, '1'),None,False
+None
+5,(25, '2'),None,False
+None
+23,(26, '1'),None,False
+None
+11,(33, '1'),None,False
+None
+20,(27, '1'),None,False
+None
+24,(27, '2'),None,False
+None
